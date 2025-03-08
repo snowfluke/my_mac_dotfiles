@@ -30,7 +30,7 @@ bindkey "^[[B" history-search-forward
 
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source $(brew --prefix)/share/zsh-you-should-use/zsh-you-should-use.zsh
+source $(brew --prefix)/share/zsh-you-should-use/you-should-use.plugin.zsh
 
 alias ls="eza --color=always --icons=always"
 alias cd="z"
