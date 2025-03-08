@@ -35,6 +35,7 @@ source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source $(brew --prefix)/share/zsh-you-should-use/you-should-use.plugin.zsh
 source $HOME/.config/custom/git/git.plugin.zsh
+source $HOME/.config/custom/zsh-auto-notify/auto-notify.plugin.zsh
 
 alias ls="eza --color=always --icons=always"
 alias cd="z"
