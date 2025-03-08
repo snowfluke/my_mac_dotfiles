@@ -5,7 +5,7 @@
 ```
 
 ```sh
-brew install alacritty font-hack-nerd-font font-jetbrains-mono zsh-autosuggestions zsh-syntax-highlighting eza zoxide powerlevel10k
+brew install alacritty font-hack-nerd-font font-jetbrains-mono zsh-autosuggestions zsh-syntax-highlighting eza zoxide powerlevel10k zsh-you-should-use
 ```
 
 ```sh
